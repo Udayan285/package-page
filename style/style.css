@@ -1,0 +1,31 @@
+
+
+/* Pricing package title styling */
+.pricing-package{
+    padding: 8px;
+    border: 1px solid #000000;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    border: none;
+}
+.first-package{
+    background-color: #06a7fa;
+    color: white;
+    border-top-left-radius: 15px;
+}
+.second-package{
+    background-color: #fa5906;
+    color: white;
+}
+.third-package{
+    background-color: #5706fa;
+    color: white;
+}
+.fourth-package{
+    background-color: #000203;
+    color: white;
+    border-top-right-radius: 15px;
+}
+
+/*
