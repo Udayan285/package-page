@@ -76,3 +76,13 @@
     
 }
 /* //within td border work not done yet. */
+
+/* second package table row starts */
+.second-row-package-table .rms h4{
+    margin-top: 80px;
+}
+
+/* third package table row starts */
+.third-row-package-table .rms h4{
+    margin-top: 20px;
+}
