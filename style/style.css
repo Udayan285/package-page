@@ -67,14 +67,15 @@
 
 /* //tikmark section here */
 
-.tikmark img{
-    display: inline-block;
-    height:50px;
-    width:60px;
-    margin: auto;
-    
-    
+.tikmark img {
+	display: inline-block;
+	height: 54px;
+	width: 60px;
+	margin: auto;
+	margin-left: 27px;
+	margin-top: 19px;
 }
+
 .tikmark{
     height: 100px;
     
@@ -118,34 +119,30 @@
 
 
 /* hot feature */
-.hot-feature{
-    height: 80px !important;
-    width: 110px !important;
+.hot-feature {
+	height: 80px !important;
+	width: 101px !important;
+	margin-left: 9px !important;
+	margin-top: 5px !important;
 }
 
 
 
 /* tikmark background work*/ 
 .tikmark-first {
-    /* background-color: yellowgreen !important; */
     border-right: 1px solid #797979;
-    background-color: #F1F7FF;
-    
-   
+    background-color: #F1F7FF;  
 }
 
 .tikmark-second {
-    /* background-color: yellowgreen !important; */
     border-right: 1px solid #797979;
     background-color: #FFF8DE;
 }
 .tikmark-third {
-    /* background-color: yellowgreen !important; */
     border-right: 1px solid #797979;
     background-color: #E1E9F2;
 }
 .tikmark-fourth {
-    /* background-color: yellowgreen !important; */
     border-right: 1px solid #797979;
     background-color: #F0F0F0;
 }
