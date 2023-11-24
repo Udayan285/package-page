@@ -28,4 +28,34 @@
     border-top-right-radius: 15px;
 }
 
-/*
+/* Pricing package title styling */
+
+/* RMS section work here */
+.rms{
+    background-color: #24114a;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+
+}
+.rms h4{
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    transform: rotate(-90deg);
+    margin-top: 60px;
+}
+.heading{
+    color: #032657;
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.empasis{
+    line-height: 25px;
+    font-size: 13px;
+    font-style: italic;
+    color: #0A0A0A;
+}
+.row-border{
+    border: 1px solid #797979;
+}
