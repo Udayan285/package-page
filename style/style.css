@@ -86,3 +86,11 @@
 .third-row-package-table .rms h4{
     margin-top: 20px;
 }
+
+/* fourth package table row starts */
+.fourth-row-package-table .rms h4{
+    margin-top: 110px;
+}
+.head-merge{
+    margin-top: 30px;
+}
