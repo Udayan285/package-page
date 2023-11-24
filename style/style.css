@@ -120,5 +120,32 @@
 /* hot feature */
 .hot-feature{
     height: 80px !important;
-    width: 80px !important;
+    width: 110px !important;
+}
+
+
+
+/* tikmark background work*/ 
+.tikmark-first {
+    /* background-color: yellowgreen !important; */
+    border-right: 1px solid #797979;
+    background-color: #F1F7FF;
+    
+   
+}
+
+.tikmark-second {
+    /* background-color: yellowgreen !important; */
+    border-right: 1px solid #797979;
+    background-color: #FFF8DE;
+}
+.tikmark-third {
+    /* background-color: yellowgreen !important; */
+    border-right: 1px solid #797979;
+    background-color: #E1E9F2;
+}
+.tikmark-fourth {
+    /* background-color: yellowgreen !important; */
+    border-right: 1px solid #797979;
+    background-color: #F0F0F0;
 }
