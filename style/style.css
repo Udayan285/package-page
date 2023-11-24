@@ -58,4 +58,21 @@
 }
 .row-border{
     border: 1px solid #797979;
+    height: 100px;
 }
+
+/* //tikmark section here */
+
+.tikmark img{
+    display: inline-block;
+    height:50px;
+    width:60px;
+    margin: auto;
+    
+    
+}
+.tikmark{
+    height: 100px;
+    
+}
+/* //within td border work not done yet. */
