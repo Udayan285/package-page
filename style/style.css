@@ -2,6 +2,7 @@
 
 /* Pricing package title styling */
 .pricing-package{
+    margin-top: 10px;
     padding: 8px;
     border: 1px solid #000000;
     text-align: center;
@@ -31,6 +32,9 @@
 /* Pricing package title styling */
 
 /* RMS section work here */
+.table-row{
+    margin-bottom: 50px;
+}
 .rms{
     background-color: #24114a;
     border-top-left-radius: 15px;
@@ -110,4 +114,11 @@
 /* eight package table row starts */
 .eight-row-package-table .rms h4{
     margin-top:20px;
+}
+
+
+/* hot feature */
+.hot-feature{
+    height: 80px !important;
+    width: 80px !important;
 }
