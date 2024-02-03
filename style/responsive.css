@@ -1,0 +1,13 @@
+
+@media (min-width:320px) and (max-width:575px){
+    .body{
+        font-family:sans-serif;
+        font-size:14px
+    }
+    .package-head{
+        display: inline-block !important;
+    }
+}
+@media (min-width:576px) and (max-width:767px){}
+@media (min-width:768px) and (max-width:991px){}
+@media (min-width:992px) {}
